@@ -10,11 +10,10 @@ A famous arcade classic, breakout was developed in early 70s. In Breakout, the p
 <br />
 
 ## Techs and Tools
-<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/81/81323.png" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Pycharm" width="26px" src="https://brandeps.com/logo-download/P/Pycharm-logo-vector-01.svg" />
-<img align="left" alt="Canva" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/canva.svg" />
- 
+
 <br />
 
 ## Functions
