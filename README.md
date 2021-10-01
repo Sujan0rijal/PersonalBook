@@ -34,9 +34,9 @@ Use the repo link to clone or download the zip file and extract it to run the co
 
 For thorough explanation on this project, [CLICK HERE](https://youtu.be/Drn2kfzqGmo)
 
-### Code by: Sujan Rijal
+#### Code by: Sujan Rijal
 #### CU ID: 11782678 
 #### Batch: March '30B'
-
+### If you have any questions about this program email me at,[CLICK HERE](sujanrijal0@gmail.com)
 
 <p align="center"><b><u><i> Thank you! </i></u></b><p>
