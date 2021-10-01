@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn-icons-png.flaticon.com/512/1251/1251166.png" width="700"></p>
+<p align="center"><img src="https://cdn-icons-png.flaticon.com/512/1251/1251166.png" width="260"></p>
 
 <p align="center">PERSONAL BOOK</p>
 
