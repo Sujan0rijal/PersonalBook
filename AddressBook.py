@@ -5,6 +5,7 @@ import db
 import new
 
 
+
 def get_contact(contact):
     """Returns a contact.
 
@@ -76,5 +77,7 @@ def search(search_string, sort):
 
 if __name__ == "__main__":
     root = Tk.Tk()
+    root.title("Address Book")
+    root.iconbitmap('D:/Address.ico')
     new.New_AddBookWindow(root)
     root.mainloop()

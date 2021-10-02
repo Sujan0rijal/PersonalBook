@@ -5,13 +5,14 @@ import os.path as path
 import config as cfg
 
 
+
 def db_init(db_name):
+
 	"""Create/Open and initialize a database.
 
 	Keyword arguments:
 	db_name -- Name of the new database file
-	"""	
-
+	"""
 	if db_exists(db_name) == True:
 		cfg.DB = sql.connect(db_name + '.ab')
 		cfg.C = cfg.DB.cursor()
@@ -149,3 +150,4 @@ def search_entry(str, sort):
 		cfg.C.execute(search_zip, [str]) 
 
 	return cfg.C
+
