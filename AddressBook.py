@@ -1,7 +1,5 @@
 import sys
-
 sys.path.insert(0, 'GUI')
-
 import tkinter as Tk
 import db
 import new
@@ -11,7 +9,7 @@ def get_contact(contact):
     """Returns a contact.
 
     Keyword arguments:
-    contact -- First and Last name of a contact entry
+    contact -- First & Last name of a contact entry
     """
     entry = []
 
@@ -40,7 +38,7 @@ def remove_contact(contact):
     """Removes a contact.
 
     Keyword arguments:
-    contact -- First and Last name of a contact entry
+    contact -- First & Last name of a contact entry
     """
     entry = []
     try:
@@ -67,7 +65,7 @@ def edit_contact(entry_id, contact):
 
 
 def search(search_string, sort):
-    """Searches the database and returns the results.
+    """Searches the database.
 
     Keyword arguments:
     search_string -- (str) Search term

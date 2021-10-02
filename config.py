@@ -1,4 +1,4 @@
-'''Config variables for Address Book database'''
+'''Configure variables for Address Book database'''
 
 
 DB = None

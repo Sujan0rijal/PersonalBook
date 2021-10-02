@@ -46,7 +46,7 @@ def get_id(entry):
 	"""Gets database ID number from an entry
 
 	Keyword arguments:
-	entry - A list object
+	entry - A list object in database
 	"""
 
 	entry_id = "SELECT rowid, * FROM Contacts WHERE First = ? AND Last = ?"
@@ -60,7 +60,7 @@ def insert_entry(entry):
 	"""Inserts a new entry into database.
 
 	Keyword arguments:
-	entry -- A list object 
+	entry -- A list object in database
 	"""
 
 	cfg.C.execute('INSERT INTO Contacts VALUES (?,?,?,?,?,?,?,?,?,?,?,?)',
@@ -113,7 +113,7 @@ def edit_entry(entry_id, entry):
 
 
 def query_entrylist(sort):
-	"""Prints the full list of entries in database.
+	"""Prints the full list in database.
 
 	Keyword arguments:
 	sort -- String containing sorting method
@@ -130,7 +130,7 @@ def query_entrylist(sort):
 
 
 def search_entry(str, sort):
-	"""Searches the database for an entry.
+	"""Searches the database for an entry in the database.
 
 	Keyword arguments:
 	str -- A string containing search term
