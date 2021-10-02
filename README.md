@@ -42,6 +42,6 @@ For thorough explanation on this project, [CLICK HERE](https://youtu.be/Drn2kfzq
 #### Code by: Sujan Rijal
 #### CU ID: 11782678 
 #### Batch: March '30B'
-### If you have any questions about this program email me at,[CLICK HERE](sujanrijal0@gmail.com)
+### If you have any questions about this program email me at "sujanrijal0@gmail.com"
 
 <p align="center"><b><u><i> Thank you! </i></u></b><p>
