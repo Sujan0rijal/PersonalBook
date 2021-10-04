@@ -37,7 +37,7 @@ Use the repo link to clone or download the zip file and extract it to run the co
 
 ## Video Link , 
 
-For thorough explanation on this project, [CLICK HERE](https://youtu.be/Drn2kfzqGmo)
+For thorough explanation on this project, [CLICK HERE](https://www.youtube.com/watch?v=pSy1xPl3DQU)
 
 #### Code by: Sujan Rijal
 #### CU ID: 11782678 
