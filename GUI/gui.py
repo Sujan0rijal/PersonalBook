@@ -81,7 +81,7 @@ class mainWindow(object):
 
 
 	def open_docs(self):
-		"""Opens user Documentation in web browser."""
+		"""Opens my facebook profile for help in web browser."""
 		new = 2
 		url = '''https://www.facebook.com/sujan.rijal.1690/'''
 		webbrowser.open(url,new=new)
@@ -207,7 +207,7 @@ class mainWindow(object):
 
 		# Help Menu
 		helpOptions = Tk.Menu(menuBar, tearoff = 1)
-		helpOptions.add_command(label = "Help Documentation", 
+		helpOptions.add_command(label = "Help Documentation",
 			command = self.open_docs)
 		helpOptions.add_command(label = "About", command = self.open_about)
 		helpOptions.add_separator()

@@ -9,7 +9,7 @@ class ConfirmationWindow(object):
 	def __init__(self, master):
 		top = self.top = Tk.Toplevel(master)
 		self.master = master
-		top.title('Oops!')
+		top.title(' Oops !')
 
 		self.label = Tk.Label(top, text = 'An address book name is required.')
 		self.label.grid(row = 0, column = 0, padx = 10, pady = 10)
