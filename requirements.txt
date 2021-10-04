@@ -1,0 +1,61 @@
+TESTING
+BLACK BOX TESTING
+
+Test Name 1 : Write book Name
+Test Name 2: Click on the “ok” button
+S.N	Test Case	Test Data	Expected Result	Actual Result	Remarks
+1.	Write the book name	Writing database name	Database name is written	Database name is written	Pass
+2.	Click on the “ok” button	Click on ok button	New GUI is open	New GUI is open	Pass
+
+                       
+        
+                  Test 1
+           Test 2
+  
+                                                                   Figure 1 : Black Box Testing 1 and 2
+TEST NAME 1 : ADD DATA
+TEST NAME 2: WRITE DATA IN ENTRY QUERY
+
+S.N	Test Case	Test Data	Expected Result	Actual Result	Remarks
+1.	Adding data	Click on “add” button	New GUI with Blank entries open	New GUI with Blank entries open	Pass
+2.	Write on First Name	Writing First Name on Entry	First Name is written	First Name is written	Pass
+3.	Write on Last Name	Writing Last Name on Entry	Last Name is written	Last Name is written	Pass 
+4.	Write on Address 1	Writing Address 1 on Entry	Address 1 is written	Address 1 is written	Pass
+5.	Write on city	Writing City on Entry	City is written	City is written	Pass
+6.	Write on State	Writing State on Entry	State is written	State is written	Pass
+7.	Write on Zip	Writing Zip on Entry	Zip is written	Zip is written	Pass
+8.	Write on Address 2	Writing Address 2 on Entry	Address 2 is written		Pass
+9. 	Write on Home	Writing Home on Entry	Home is written	Home is written	Pass
+10.	Write on Mobile	Writing Mobile on Entry	Mobile is written	Mobile is written	Pass
+11.	Write on Email	Writing Email on Entry	Email is written	Email is written	Pass
+12.	Write on Birthday	Writing Birthday on Entry	Birthday is written	Birthday is written	Pass
+13.	Write on Notes	Writing Notes on Entry	Notes is written	Notes is written	Pass
+14.	Add data	Click on add button	Data is added in database	Data is added in database	Pass
+                              
+
+Clicking on ADD button
+Writing data on all Entry
+                         
+
+ 
+Adding data in database
+
+                           Figure 2 : Black Box Testing 2
+
+TEST NAME : Delete From Database
+
+S.N	Test case	Test Data	Expected Result	Actual Result	Remarks
+1.	Select the data	Click on data	Data is selected	Data is selected	Pass
+2	Delete the data	Click on delete button	Message is popups and click yes data is deleted	Message is popups and click yes data is deleted	Pass
+                     
+
+Case 1; Select Data
+
+             
+
+Case 2: Click On Yes
+Case 3 : Delete the data
+
+                                  Figures 3 : Delete Data 
+
+
