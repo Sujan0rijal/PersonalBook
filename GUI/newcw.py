@@ -1,9 +1,3 @@
-"""New Confirmation Window
-
-Authors: Austin Gheen, Brandon Cao, Travis Barnes
-
-Window that pops up when user chooses to edit a contact.
-"""
 import tkinter as Tk
 
 class ConfirmationWindow(object):

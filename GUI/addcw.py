@@ -1,9 +1,3 @@
-"""Add Confirmation Window
-
-Authors: Austin Gheen
-
-Confirmation window that pops up when user fails to enter enough contact info.
-"""
 import tkinter as Tk
 
 class ConfirmationWindow(object):

@@ -1,10 +1,3 @@
-"""Add Contact Window
-
-Authors: Austin Gheen, Travis Barnes
-
-Window that pops up when user chooses to add a contact.
-"""
-
 import tkinter as Tk
 import AddressBook as ab
 import gui
@@ -17,9 +10,6 @@ class AddContactWindow(object):
 
 
 	def field_return(self):
-		"""Grabs contact form data and sends it to add_contact() in 
-		AddressBook.py.
-		"""
 
 		# List to hold form data
 		field_list = [' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ']

@@ -1,9 +1,3 @@
-"""New Address Book Window
-
-Authors: Austin Gheen, Travis Barnes
-
-Requests users for the name of their address book.
-"""
 import tkinter as Tk
 import db
 import gui

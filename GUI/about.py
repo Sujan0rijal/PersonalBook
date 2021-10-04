@@ -1,10 +1,3 @@
-# coding=utf-8
-"""Address Book About page
-
-Authors: Austin Gheen, Travis Barnes
-
-Window to displays developer and application information.
-"""
 import tkinter as Tk
 
 
@@ -21,5 +14,5 @@ class About_Window(object):
         self.photo_label.grid(row=0, column=0)
 
         # Application information
-        self.label = Tk.Label(top, text="Address Book by Team Cowsay\n Version 1.0\n Copyright © 2016")
+        self.label = Tk.Label(top, text="Address Book by Sujan Rijal")
         self.label.grid(row=1, column=0, padx=10, pady=10)

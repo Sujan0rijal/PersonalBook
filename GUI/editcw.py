@@ -1,9 +1,3 @@
-"""Edit Confirmation Window
-
-Authors: Austin Gheen, Brandon Cao, Travis Barnes
-
-Confirmation window that pops up when user chooses to edit a contact.
-"""
 import tkinter as Tk
 import AddressBook as ab
 import db

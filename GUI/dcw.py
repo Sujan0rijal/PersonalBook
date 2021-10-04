@@ -1,10 +1,3 @@
-"""Delete Confirmation Window
-
-Authors: Austin Gheen, Brandon Cao, Travis Barnes
-
-Confirmation window that pops up when a user chooses to delete a contact.
-"""
-
 import tkinter as Tk
 import gui
 import db

@@ -1,9 +1,3 @@
-"""No Entry Selected Window
-
-Authors: Austin Gheen, Travis Barnes
-
-Window that pops up when user tries to edit or delete with no entry selected.
-"""
 import tkinter as Tk
 
 class ConfirmationWindow(object):

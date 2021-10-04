@@ -1,10 +1,3 @@
-"""Address Book GUI
-
-Authors: Austin Gheen, Travis Barnes, Brandon Cao
-CIS422 Winter 2016
-
-AddressBook.py
-"""
 import sys
 sys.path.insert(0, '..')
 
@@ -90,8 +83,7 @@ class mainWindow(object):
 	def open_docs(self):
 		"""Opens user Documentation in web browser."""
 		new = 2
-		url = '''https://www.assembla.com/spaces/xis22w16-team5/wiki/
-			Software_Documentation'''
+		url = '''https://www.facebook.com/sujan.rijal.1690/'''
 		webbrowser.open(url,new=new)
 
 

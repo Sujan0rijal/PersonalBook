@@ -1,10 +1,3 @@
-"""Edit Contact Window
-
-Authors: Austin Gheen, Travis Barnes
-
-Window that pops up when user chooses to edit a contact.
-"""
-
 import tkinter as Tk
 import AddressBook as ab
 import editcw
